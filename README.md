@@ -1,3 +1,3 @@
 # TurkStudentCoIkinciOdev
 
-Bu repository TurkStudentCo tarafından verilen ilk ödevin cevaplarını içerir.
+Bu repository TurkStudentCo tarafından verilen ikinci ödevin cevaplarını içerir.
